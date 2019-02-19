@@ -6,3 +6,9 @@
 To work with postgres, you must have `PGUSER` and `PGPASSWORD` as environment
 variables.
 
+## Tests
+
+```sh
+$ rspec
+```
+
