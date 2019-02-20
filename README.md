@@ -26,8 +26,16 @@ variables.
 
 ## Running the tests
 
+### rspec tests
+
 ```sh
 $ rspec
+```
+
+### spinach tests
+
+```sh
+$ rake spinach
 ```
 
 ## Deployment
