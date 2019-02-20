@@ -30,6 +30,10 @@ gem 'jbuilder', '~> 2.5'
 gem 'devise'
 # Administration framework for ruby on rails
 gem 'administrate'
+# omniauth
+gem 'omniauth', '~> 1.9'
+# omniauth identity strategy
+gem 'omniauth-identity'
 
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.1.0', require: false
