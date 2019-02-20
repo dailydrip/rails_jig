@@ -1,6 +1,6 @@
 # Rails Jig
 
-Yet another rails boilerplate, but now using the cutting edge libraries.
+Yet another rails boilerplate, but now using cutting edge libraries.
 
 ## Getting Started
 
