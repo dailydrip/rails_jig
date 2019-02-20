@@ -1,5 +1,6 @@
-
+# frozen_string_literal: true
 class Spinach::Features::CheckTheHomePage < Spinach::FeatureSteps
+
   include RSpec::Matchers
   step 'I am on the home page' do
     visit '/'
