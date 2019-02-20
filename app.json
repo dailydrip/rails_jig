@@ -1,0 +1,10 @@
+{
+  "name": "Rails jig",
+  "description": "Yet another rails boilerplate, but now using cutting edge libraries.",
+  "repository": "https://github.com/dailydrip/rails_jig",
+  "logo": "https://pbs.twimg.com/profile_images/1021484386271686656/59lAmtyM_400x400.jpg",
+  "keywords": [
+    "rails",
+    "boilerplate"
+  ]
+}
