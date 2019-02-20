@@ -26,6 +26,8 @@ gem 'jbuilder', '~> 2.5'
 # gem 'image_processing', '~> 1.2'
 # Devise helps us on login stuff
 gem 'devise'
+# Administration framework for ruby on rails
+gem 'administrate'
 
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.1.0', require: false
