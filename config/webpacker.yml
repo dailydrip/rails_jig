@@ -47,6 +47,18 @@ default: &default
     - .gif
     - .jpeg
     - .jpg
+    - .jsx
+    - .js
+    - .sass
+    - .scss
+    - .css
+    - .png
+    - .svg
+    - .gif
+    - .jpeg
+    - .jpg
+    - .tsx
+    - .ts
 
 development:
   <<: *default
