@@ -21,7 +21,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 To work with postgres, you must have `PGUSER` and `PGPASSWORD` as environment variables.
 
-To be able to see the admin, you must have `ADMIN_NAME` and `ADMIN_PASSWORD` as environment variables.
+To be able to see the admin and the app in staging environment, you must have `ADMIN_NAME` and `ADMIN_PASSWORD` as environment variables.
 
 ### Installing
 
@@ -42,12 +42,16 @@ $ rspec
 ### spinach tests
 
 ```sh
-$ rake spinach
+$ spinach
 ```
 
 ## Deployment
 
 You can deploy this [directly to Heroku](https://heroku.com/deploy?template=https://github.com/dailydrip/rails_jig), if you want to.
+
+## Staging
+
+The application uses BASIC AUTH when in `staging`. We use the same password and username for the admin.
 
 ## License
 
