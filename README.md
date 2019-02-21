@@ -1,5 +1,8 @@
 # Rails Jig
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dailydrip/rails_jig)
+
+
 Yet another rails boilerplate, but now using cutting edge libraries.
 
 ## Getting Started
@@ -40,7 +43,7 @@ $ rake spinach
 
 ## Deployment
 
-TBD.
+You can deploy this [directly to Heroku](https://heroku.com/deploy?template=https://github.com/dailydrip/rails_jig), if you want to.
 
 ## License
 
