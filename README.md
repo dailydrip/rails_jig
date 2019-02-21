@@ -19,8 +19,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 ##### Environment variables
 
-To work with postgres, you must have `PGUSER` and `PGPASSWORD` as environment
-variables.
+To work with postgres, you must have `PGUSER` and `PGPASSWORD` as environment variables.
+
+To be able to see the admin, you must have `ADMIN_NAME` and `ADMIN_PASSWORD` as environment variables.
 
 ### Installing
 
